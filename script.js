@@ -23,7 +23,7 @@ const translations = {
     "education.master": "硕士研究生，精密仪器与光电子工程学院，天津大学",
     "education.bachelor": "本科，未来技术学院，天津大学",
     "experience.heading": "研究方向",
-    "experience.item3.title": "二维光电探测器",
+    "experience.item3.title": "基于二维光电探测器的超微型计算光谱仪",
     "experience.item3.paperLabel": "相关论文 / 项目",
     "experience.item1.title": "二维半金属/半导体低温输运特性的研究",
     "experience.item1.paperLabel": "相关论文 / 项目",
@@ -56,7 +56,7 @@ const translations = {
       "M.S. student, School of Precision Instrument and Opto-Electronics Engineering, Tianjin University",
     "education.bachelor": "B.E., School of Future Technology , Tianjin University",
     "experience.heading": "Research Interests",
-    "experience.item3.title": "Two-Dimensional Photodetectors",
+    "experience.item3.title": "Ultraminiaturized Computational Spectrometers Based on Two-Dimensional Photodetectors",
     "experience.item3.paperLabel": "Related Publications / Projects",
     "experience.item1.title":
       "Low-Temperature Transport Properties of Two-Dimensional Semimetals/Semiconductors",
