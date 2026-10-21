@@ -15,6 +15,7 @@ const translations = {
     "bio.p1":
       "我现在是天津大学精密仪器与工程学院博士生，师从胡晓东教授和武恩秀副教授。我目前的研究方向主要聚焦于基于二维光电探测器的超微型计算光谱仪，重点关注二维材料光电响应的多维光谱编码机制，以及压缩感知等重构算法在微型化光谱探测中的应用。此前，我长期从事二维半金属/半导体异质结的低温输运特性研究，在输运物理机制解析方面具有较为系统的研究积累。如果你对相关研究方向感兴趣，欢迎与我联系并开展交流合作。",
     "honors.heading": "荣誉与奖励",
+    "honors.item3": "入选 中国科协青年科技人才培育工程（博士生专项计划）",
     "honors.item1": "中电仪器“Ceyear思仪”奖学金",
     "honors.item2": "蒋震奖学金",
     "education.heading": "教育经历",
@@ -46,6 +47,7 @@ const translations = {
     "bio.p1":
       "I am currently a Ph.D. student at the School of Precision Instrument and Opto-Electronics Engineering, Tianjin University, advised by Prof. Xiaodong Hu and Associate Prof. Enxiu Wu. My current research focuses on ultraminiaturized computational spectrometers based on two-dimensional photodetectors, with particular emphasis on multidimensional spectral encoding enabled by the photoresponse of two-dimensional materials, as well as the application of reconstruction algorithms such as compressive sensing in miniaturized spectral detection. Previously, I worked extensively on the low-temperature transport properties of two-dimensional semimetal/semiconductor heterostructures, developing systematic research experience in the analysis of transport physics mechanisms. If you are interested in these research areas, please feel free to contact me for discussion and collaboration.",
     "honors.heading": "Honors and Awards",
+    "honors.item3": "Selected for the CAST Youth Talent Development Program (Special Program for PhD Students)",
     "honors.item1": "Ceyear Scholarship, China Electronics Technology Instruments",
     "honors.item2": "Jiang Zhen Scholarship",
     "education.heading": "Educations",
